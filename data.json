@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "nama": "Baju Batik",
+        "rating": 4.5,
+        "deskripsi": "Baju batik tradisional dengan motif khas yang menggambarkan kekayaan budaya Indonesia. Cocok dipakai dalam berbagai acara formal maupun non-formal.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrRESOoy1GMIPnI5VGp6wTdwhOv93ypHQRw&s",
+        "category":"Baju"
+    },
+    {
+        "id": 2,
+        "nama": "Celana Jeans",
+        "rating": 4.3,
+        "deskripsi": "Celana jeans dengan kualitas premium, terbuat dari bahan yang nyaman dan tahan lama. Desain modern yang sesuai untuk aktivitas sehari-hari.",
+        "foto": "https://dynamic.zacdn.com/61Uh8YyUucO5IwRfU2ybq0o-vXY=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/irojeans-1520-6741423-1.jpg",
+        "category":"Celana"
+    },
+    {
+        "id": 3,
+        "nama": "Kemeja Putih",
+        "rating": 4.7,
+        "deskripsi": "Kemeja putih klasik yang serbaguna, cocok untuk berbagai acara formal seperti rapat kerja, presentasi, maupun pertemuan resmi lainnya.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQ7CJ5st3lAUiUaNZB-tnmweLXeOMCNzRFA&s",
+        "category":"Baju"
+    },
+    {
+        "id": 4,
+        "nama": "Pakaian Adat",
+        "rating": 4.8,
+        "deskripsi": "Pakaian adat khas dari berbagai daerah di Indonesia, menampilkan keunikan dan keindahan setiap daerah. Sempurna untuk acara adat dan upacara budaya.",
+        "foto": "https://storage.googleapis.com/finansialku_media/wordpress_media/2020/09/26832413-dari-semua-pakaian-ini-dia-pakaian-adat-paling-unik-di-indonesia-07-finansialku.jpg",
+        "category":"Baju"
+    },
+    {
+        "id": 5,
+        "nama": "Karpet Motif",
+        "rating": 4.4,
+        "deskripsi": "Karpet dengan motif tradisional Indonesia, menambah nuansa etnik di dalam rumah. Terbuat dari bahan berkualitas tinggi yang nyaman dan tahan lama.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkXEXi0c-NYkp_3CuXOiJ2WWxtTtioFVkGQ&s",
+        "category":"Karpet"
+    },
+    {
+        "id": 6,
+        "nama": "Rendang",
+        "rating": 4.9,
+        "deskripsi": "Makanan khas Padang dengan cita rasa yang kaya dan bumbu rempah yang lezat. Rendang adalah hidangan yang terkenal dengan dagingnya yang empuk dan saus kental yang penuh dengan rempah-rempah.",
+        "foto": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/31040437/ini-resep-bumbu-rendang-daging-sapi-untuk-acara-spesial.jpg",
+        "category":"Makanan"
+    },
+    {
+        "id": 7,
+        "nama": "Sate Ayam",
+        "rating": 4.6,
+        "deskripsi": "Sate ayam dengan bumbu kacang yang lezat, dipanggang hingga sempurna untuk menghasilkan rasa yang gurih dan tekstur yang empuk. Cocok disajikan dengan lontong atau nasi.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqMcUUc5SqDf1O7tIDIFexgkcFQ__kkjtTQ&s",
+        "category":"Makanan"
+    },
+    {
+        "id": 8,
+        "nama": "Keripik Singkong",
+        "rating": 4.2,
+        "deskripsi": "Keripik singkong renyah dengan bumbu pedas manis yang menggoda selera. Cemilan tradisional yang cocok dinikmati kapan saja.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYW85nmUgX_IjVBe0OoocrRbqOyxuadnCWg&s",
+        "category":"Makanan"
+        },
+    {
+        "id": 9,
+        "nama": "Nasi Goreng",
+        "rating": 4.8,
+        "deskripsi": "Nasi goreng spesial dengan campuran sayuran, daging, dan bumbu rempah yang kaya rasa. Sajian favorit yang disukai oleh banyak orang.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqAvITi64-OvtJFdeh0rjTFegUVbjPv5_XA&s",
+        "category":"Makanan" 
+   },
+    {
+        "id": 10,
+        "nama": "Tempe Mendoan",
+        "rating": 4.5,
+        "deskripsi": "Tempe mendoan yang digoreng dengan tepung berbumbu, menghasilkan rasa yang gurih dan tekstur yang lembut di dalam. Cocok sebagai makanan pendamping atau cemilan.",
+        "foto": "https://asset.kompas.com/crops/7s1zIClbCexXibeqFVyVVgoWZGw=/4x2:972x648/750x500/data/photo/2022/09/21/632aa5001639f.jpg",
+        "category":"Makanan" 
+    },
+    {
+        "id": 11,
+        "nama": "Sambal Terasi",
+        "rating": 4.7,
+        "deskripsi": "Sambal terasi pedas dengan aroma khas terasi yang menggugah selera. Cocok sebagai pelengkap berbagai hidangan Indonesia.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgGAnTw2WpylO4aJSLZ67-sJfYKi4OfDaCw&s",
+        "category":"Makanan" 
+    },
+    {
+        "id": 12,
+        "nama": "Kerupuk Udang",
+        "rating": 4.4,
+        "deskripsi": "Kerupuk udang renyah dengan rasa gurih dan aroma udang yang khas. Cemilan ringan yang populer di Indonesia.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhpT45WO8JAXv4zPoOD0XMPqEax2idnAohQ&s",
+        "category":"Makanan" 
+    },
+    {
+        "id": 13,
+        "nama": "Bakso",
+        "rating": 4.9,
+        "deskripsi": "Bakso daging sapi dengan kuah kaldu yang gurih dan mie kuning. Makanan favorit yang sering disajikan dengan pelengkap seperti tahu, siomay, dan pangsit.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGm7VAKh4jJ06RDZiNQn7HvBZxtWiF-eWgkQ&s",
+        "category":"Makanan" 
+    },
+    {
+        "id": 14,
+        "nama": "Gado-Gado",
+        "rating": 4.8,
+        "deskripsi": "Gado-gado adalah salad sayuran khas Indonesia yang disiram dengan saus kacang yang lezat. Dilengkapi dengan lontong, telur, dan kerupuk.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ64MF8_sMd4G9WdvKUo-FLSg8GiLwnaXRoYg&s",
+        "category":"Makanan" 
+    },
+    {
+        "id": 15,
+        "nama": "Ayam Goreng",
+        "rating": 4.6,
+        "deskripsi": "Ayam goreng yang dimarinasi dengan bumbu rempah khas, digoreng hingga renyah dan gurih. Cocok disajikan dengan nasi dan sambal.",
+        "foto": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/28042323/Resep-Olahan-Ayam-yang-Lebih-Padat-Nutrisi-dan-Bergizi-.jpg.webp",
+        "category":"Makanan" 
+    },
+    {
+        "id": 16,
+        "nama": "Pempek",
+        "rating": 4.7,
+        "deskripsi": "Pempek khas Palembang yang terbuat dari ikan dan tepung sagu, disajikan dengan kuah cuko yang asam, manis, dan pedas. Terdapat berbagai jenis seperti lenjer, kapal selam, dan adaan.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6gAweT4yzYj5M-0rZJA-qvPiKxaGajN69Q&s",
+        "category":"Makanan" 
+    },
+    {
+        "id": 17,
+        "nama": "Soto Ayam",
+        "rating": 4.8,
+        "deskripsi": "Soto ayam dengan kuah kuning yang kaya bumbu, dilengkapi dengan suwiran ayam, telur, dan sayuran. Sajian hangat yang cocok untuk sarapan atau makan siang.",
+        "foto": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/17043644/Praktis-dan-Simpel-Ini-Resep-Soto-Ayam-Lamongan-yang-Menggugah-Selera-.jpg",
+        "category":"Makanan" 
+    },
+    {
+        "id": 18,
+        "nama": "Gudeg",
+        "rating": 4.7,
+        "deskripsi": "Gudeg adalah makanan khas Yogyakarta yang terbuat dari nangka muda dimasak dengan santan dan bumbu khas. Disajikan dengan nasi, ayam kampung, telur, dan sambal krecek.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Da9qboJfqdkHfdUhLCqlPqekuswSHgoWog&s",
+        "category":"Makanan" 
+    },
+    {
+        "id": 19,
+        "nama": "Es Cendol",
+        "rating": 4.5,
+        "deskripsi": "Es cendol adalah minuman tradisional yang terbuat dari tepung beras, gula merah, dan santan. Dihidangkan dengan es serut, sangat menyegarkan di hari panas.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57OuZsUyx2Gge-oyx5ryGtxOIxFKJpQ7pFQ&s",
+        "category":"Makanan" 
+    },
+    {
+        "id": 20,
+        "nama": "Martabak Manis",
+        "rating": 4.8,
+        "deskripsi": "Martabak manis dengan berbagai topping seperti coklat, kacang, dan keju. Kue tebal yang lembut dan manis, cocok dinikmati sebagai cemilan.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAWjHpeSjr_9aDeoB4ecumuwNSsf3-_hQJg&s",
+        "category":"Makanan" 
+    },
+    {
+        "id": 21,
+        "nama": "Nasi Uduk",
+        "rating": 4.6,
+        "deskripsi": "Nasi uduk yang dimasak dengan santan dan rempah-rempah, menghasilkan nasi yang harum dan gurih. Biasanya disajikan dengan ayam goreng, tempe, dan sambal.",
+        "foto": "https://asset.kompas.com/crops/v6CfIMJClla33MnID_vqw9m8mjw=/100x67:900x600/750x500/data/photo/2021/02/21/603203834f00f.jpg",
+        "category":"Makanan" 
+    },
+    {
+        "id": 22,
+        "nama": "Lemper",
+        "rating": 4.4,
+        "deskripsi": "Lemper adalah makanan ringan yang terbuat dari ketan berisi ayam atau daging yang dibungkus daun pisang. Rasanya gurih dan nikmat.",
+        "foto": "https://asset.kompas.com/crops/dGH17UyZay6vi772ipGxq9BOPM8=/0x292:1000x959/750x500/data/photo/2021/08/02/61081f8d3a20b.jpg",
+        "category":"Makanan" 
+    },
+    {
+        "id": 23,
+        "nama": "Serabi",
+        "rating": 4.3,
+        "deskripsi": "Serabi adalah kue tradisional yang terbuat dari adonan tepung beras, dengan berbagai topping seperti gula merah, santan, dan pisang.",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Serabi_jawa_kuno_gula_jawa_kerinh.jpg",
+        "category":"Makanan" 
+    },
+    {
+        "id": 24,
+        "nama": "Onde-Onde",
+        "rating": 4.5,
+        "deskripsi": "Onde-onde adalah kue tradisional yang terbuat dari tepung ketan, diisi dengan kacang hijau dan digoreng hingga renyah. Dibalut dengan wijen di bagian luarnya.",
+        "foto": "https://asset.kompas.com/crops/oSi1ZxBFOHxjrlm__z27dw82-Y0=/0x22:750x522/750x500/data/photo/2020/12/21/5fe033ae033c1.jpg",
+        "category":"Makanan" 
+    },
+    {
+        "id": 25,
+        "nama": "Es Teler",
+        "rating": 4.7,
+        "deskripsi": "Es teler adalah minuman segar yang terbuat dari campuran buah-buahan seperti alpukat, kelapa muda, dan nangka, ditambah dengan es serut dan susu kental manis.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhbqPZmc_4oCGnQn527cy6D8ju1OBjIh9Ow&s",
+        "category":"Makanan" 
+    }
+]
